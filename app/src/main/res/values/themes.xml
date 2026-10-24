@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PlantTracker" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/emerald</item>
+        <item name="colorPrimaryVariant">@color/ash_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/wave_crest</item>
+        <item name="colorSecondaryVariant">@color/green_haze</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/emerald</item>
+        <item name="android:windowBackground">@color/leaf_dew</item>
+    </style>
+</resources>

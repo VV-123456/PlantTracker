@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="leaf_dew">#E8F5E9</color>
+    <color name="green_pastel">#C8E6C9</color>
+    <color name="green_haze">#A5D6A7</color>
+    <color name="wave_crest">#81C784</color>
+    <color name="emerald">#4CAF50</color>
+    <color name="ash_green">#388E3C</color>
+    <color name="sweet_green">#8BC34A</color>
+    <color name="pistachio">#AED581</color>
+    <color name="mint">#B9F6CA</color>
+
+    <color name="card_shadow">#40000000</color>
+    <color name="divider">#D0E8D0</color>
+
+    <color name="bottom_nav_color">#4CAF50</color>
+</resources>
